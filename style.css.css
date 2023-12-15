@@ -1,0 +1,15 @@
+#commonicon{
+    color:blue;
+  font-size: 30px;
+    text-align:center;
+}
+
+.card-title{
+    text-align:center;
+}
+
+a{
+    justify-content: center;
+    display: flex;
+}
+          
